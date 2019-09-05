@@ -1,4 +1,4 @@
 # notes
-个人学习笔记
+追求卓越成功自然相伴
 
 ## ElasticSearch
